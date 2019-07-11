@@ -1,1 +1,2 @@
-# simple-javavscript-project
+# Simple JavaScript Project
+This is a 2-day self directed JS project. I will be following a youtube tutorial in order to create a project using HTML, JS, and CSS. This project is just a reason for me to code during the job search project.
