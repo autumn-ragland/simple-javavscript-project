@@ -5,3 +5,11 @@ body , html{
     text-align: center;
 }
 
+.done {
+    background: lightgreen;
+    color: green;
+}
+
+.delete {
+    display: none;
+}
