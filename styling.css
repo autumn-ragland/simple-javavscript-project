@@ -13,7 +13,7 @@ h1{
 
 .container{
     background: lightgray;
-    width: 50%;
+    width: 75%;
     height: 90vh;
     margin: 1%;
     padding: 1%;
@@ -40,10 +40,16 @@ li{
 li > button{
     padding: 1%;
     margin: 1%;
-    background: green;
+    background: gray;
     border-radius: 6%;
-    border: solid green 1px;
+    border: solid grey 1px;
     font-size: 14px;
+}
+
+li > button:hover{
+    background: red;
+    border-radius: 6%;
+    border: solid red 1px;
 }
 
 button:hover{
